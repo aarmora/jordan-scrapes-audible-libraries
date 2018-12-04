@@ -1,0 +1,4 @@
+config.ts
+node_modules/
+dist/
+credentials.ts
